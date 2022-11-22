@@ -7,6 +7,19 @@
     padding-right: 2rem;
 }
 
+@media screen and (min-width: 0){
+    .cabecalho {
+        justify-content: center;
+        padding: 0 1em;
+    }
+}
+
+@media screen and (min-width: 765px) {
+    .cabecalho{
+        padding: 0 5rem;
+        justify-content: space-between;
+    }    
+}
 
 
 
