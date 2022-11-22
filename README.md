@@ -22,7 +22,6 @@ This is a website developed during the CSS architecture curse from Alura. It con
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
 
 
 ### What I learned
