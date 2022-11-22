@@ -5,7 +5,6 @@ This is a project developed in the CSS architecture curs from Alura.
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
@@ -15,8 +14,6 @@ This is a project developed in the CSS architecture curs from Alura.
 ## Overview
 
 This is a website developed during the CSS architecture curse from Alura. It consists on a page the suplies diffent kinds of healthy recypes.
-
-### Screenshot
 
 
 ### Built with
